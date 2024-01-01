@@ -4,6 +4,8 @@
 
 - [React 기본 공부](https://github.com/JHyeon-a/Nomadcoders_reactJS/blob/main/ReactBasic.md)
 
-
 - [React 생성](https://github.com/JHyeon-a/Nomadcoders_reactJS/blob/main/CreateReact.md)
 
+- [React 기본 공부2](https://github.com/JHyeon-a/Nomadcoders_reactJS/blob/main/ReactNote.md)
+
+- [리액트로 만든 영화 웹사이트](https://JHyeon-a.github.io/Nomadcoders_reactJS)
