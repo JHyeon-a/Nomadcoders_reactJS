@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nomadcoders_reactJS/static/css/main.845cbca9.css",
+    "main.js": "/Nomadcoders_reactJS/static/js/main.542f8bd8.js",
+    "index.html": "/Nomadcoders_reactJS/index.html",
+    "main.845cbca9.css.map": "/Nomadcoders_reactJS/static/css/main.845cbca9.css.map",
+    "main.542f8bd8.js.map": "/Nomadcoders_reactJS/static/js/main.542f8bd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.845cbca9.css",
+    "static/js/main.542f8bd8.js"
+  ]
+}
