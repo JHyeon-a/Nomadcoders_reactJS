@@ -393,6 +393,12 @@ Movie.js에서 보내는 id를 Detail.js에서도 알아야 쓸 수 있음!!
   ```js
   import { useParams } from "react-router-dom";
   ```
+  
+**참고**
+- route 사용했을 때 다른 방법
+  ```js
+    <Route path="/" element={<Main />} />
+  ```
 
 ## github-page
 
